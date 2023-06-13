@@ -2,7 +2,7 @@ import React from 'react'
 
 function SearchDropdown() {
   return (
-    <div className='w-[156px] h-[144px] flex-col bg-white box-border items-start rounded-lg border-[#E5E5E0] border-[1px] border-solid fixed mt-4  right-[600px] '>
+    <div className='w-[156px] h-[144px] flex-col bg-white box-border items-start rounded-lg border-[#E5E5E0] border-[1px] border-solid  absolute  mt-4 right-[-15px] '>
 
       <div className='flex h-12 pl-[14px] gap-x-[14px]  items-center  '>
 

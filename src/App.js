@@ -20,7 +20,7 @@ function App() {
  
         <Date></Date>
 
-        <div className="z-10 ">
+        <div className="z-10 py-2 gap-y-1 flex flex-col  ">
         <TextRecieve ></TextRecieve>
         <TextSend></TextSend>
         <TextRecieve ></TextRecieve>
